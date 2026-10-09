@@ -36,6 +36,7 @@
 | **Smart Door Lock** | IoT door lock with fingerprint sensor and web dashboard (team project) | ESP32 · C++ · Web |
 | **Singkawang Tourism Website** | Tourism website for Kota Singkawang | HTML · CSS · JavaScript |
 
+<p>
 <a href="https://github.com/AziizTrinaldi">
 
  <picture>
@@ -44,6 +45,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AziizTrinaldi/AziizTrinaldi/pacman/pacman-contribution-graph.svg">
 </picture>
  </a>
+</p>
 
 ### 📊 GitHub stats
 <p>
