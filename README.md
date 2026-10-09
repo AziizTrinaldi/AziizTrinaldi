@@ -47,6 +47,27 @@
  </a>
 </p>
 
+<div align="center">
+
+<details open>
+<summary><strong>📁 More Repositories</strong></summary>
+
+
+<p align="center">
+  <a href="https://github.com/AziizTrinaldi/Smart-Door-Lock">
+    <img width="48%" align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=AziizTrinaldi&amp;repo=Smart-Door-Lock&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;text_color=C9D1D9&amp;icon_color=2DD4BF&amp;border_color=8B949E&amp;border_radius=6&amp;description_lines_count=3" alt="Smart-Door-Lock repository card" />
+  </a>
+  <a href="https://github.com/AziizTrinaldi/SingkawangKu">
+    <img width="48%" align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=AziizTrinaldi&amp;repo=SingkawangKu&amp;bg_color=0D1117&amp;title_color=38BDF8&amp;text_color=C9D1D9&amp;icon_color=2DD4BF&amp;border_color=8B949E&amp;border_radius=6&amp;description_lines_count=3" alt="SingkawangKu repository card" />
+  </a>
+</p>
+
+<p><a href="https://github.com/AziizTrinaldi?tab=repositories">View all repositories →</a></p>
+
+</details>
+
+</div>
+
 ### 📊 GitHub stats
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=AziizTrinaldi&show_icons=true&hide_border=true&theme=radical&count_private=true" alt="GitHub stats">
