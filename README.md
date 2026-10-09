@@ -32,15 +32,14 @@
 | **Hunter System** | Gamified Pomodoro tracker inspired by *Solo Leveling*: levels, gear, gates and study reminders | HTML · CSS · JavaScript |
 | **Smart Door Lock** | IoT door lock with fingerprint sensor and web dashboard (team project) | ESP32 · C++ · Web |
 | **Singkawang Tourism Website** | Tourism website for Kota Singkawang | HTML · CSS · JavaScript |
-| **[Project name]** | [One-line description] | [Tech] |
 
 ### 📊 GitHub stats
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&theme=radical&count_private=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&theme=radical" alt="Top languages">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AziizTrinaldi&show_icons=true&hide_border=true&theme=radical&count_private=true" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AziizTrinaldi&layout=compact&hide_border=true&theme=radical" alt="Top languages">
 </p>
 <p>
-  <img src="https://streak-stats.demolab.com?user=USERNAME&hide_border=true&theme=radical" alt="GitHub streak">
+  <img src="https://streak-stats.demolab.com?user=AziizTrinaldi&hide_border=true&theme=radical" alt="GitHub streak">
 </p>
 
 ---
