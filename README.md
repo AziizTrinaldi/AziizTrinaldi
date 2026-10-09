@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="mario.gif" width="100%" alt="Pixel art gaming room">
-</p>
+
 
 <h1 align="center">Hi, I'm Muhammad Aziiz Trinaldi 👋</h1>
 
@@ -8,7 +6,9 @@
   Informatics student at <b>Universitas Tanjungpura</b>, Pontianak.<br>
   I like building things I actually use, from small web tools to hardware that talks to the internet.
 </p>
-
+<p align="center">
+  <img src="mario.gif" width="100%" alt="Pixel art gaming room">
+</p>
 <p align="center">
   <a href="mailto:maziiztrinaldi0@gmail.com"><img src="https://img.shields.io/badge/Email-ef8b7d?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/aziiz-trinaldi-8344aa293"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
