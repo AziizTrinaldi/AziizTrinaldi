@@ -28,7 +28,6 @@
   </a>
 </p>
 
-C++ · C# · Python · HTML · CSS · JavaScript · PHP · SQL / MySQL
 
 ### 🚀 Featured projects
 | Project | Description | Tech |
@@ -36,6 +35,15 @@ C++ · C# · Python · HTML · CSS · JavaScript · PHP · SQL / MySQL
 | **Hunter System** | Gamified Pomodoro tracker inspired by *Solo Leveling*: levels, gear, gates and study reminders | HTML · CSS · JavaScript |
 | **Smart Door Lock** | IoT door lock with fingerprint sensor and web dashboard (team project) | ESP32 · C++ · Web |
 | **Singkawang Tourism Website** | Tourism website for Kota Singkawang | HTML · CSS · JavaScript |
+
+<a href="https://github.com/AziizTrinaldi">
+
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AziizTrinaldi/AziizTrinaldi/pacman/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AziizTrinaldi/AziizTrinaldi/pcman/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AziizTrinaldi/AziizTrinaldi/pacman/pacman-contribution-graph.svg">
+</picture>
+ </a>
 
 ### 📊 GitHub stats
 <p>
