@@ -1,51 +1,52 @@
-<!-- Replace every USERNAME with your GitHub username, and edit anything in [brackets]. -->
-
 <h1 align="center">Hi, I'm Muhammad Aziiz Trinaldi 👋</h1>
+
 <p align="center">
   Informatics student at <b>Universitas Tanjungpura</b> · Pontianak, Indonesia<br>
   I build web apps, tinker with IoT, and practice competitive programming.
 </p>
 
 <p align="center">
-  <a href="mailto:[your-email]"><img src="https://img.shields.io/badge/Email-Contact-ef8b7d?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/[your-linkedin]"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&style=flat-square&color=bca8f2&label=Profile+views" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=AziizTrinaldi&amp;style=flat-square&amp;color=bca8f2&amp;label=Profile+views" alt="Profile views" />
 </p>
 
----
-
-### About me
+About me
 - 🎓 Studying Informatics at Universitas Tanjungpura
-- 🛠️ Working on web development, embedded systems (ESP32) and data projects
+- 🛠️ Working on web development, embedded systems (ESP32), and data projects
 - 🧠 Practicing algorithms in C++ for competitive programming
-- 🔐 Interested in cryptography and machine learning
-- 🎮 Fun fact: I turned my study sessions into an RPG ([Hunter System](#-featured-projects))
+- 🔐 Interested in cryptography, cybersecurity and machine learning
 
-### Tech stack
+Tech stack
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,python,html,css,js,php,mysql&theme=dark&perline=8" alt="C++, C#, Python, HTML, CSS, JavaScript, PHP, and MySQL" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,python,html,css,js,php,mysql&amp,figma,linux;theme=dark&amp;perline=8" alt="C++, C#, Python, HTML, CSS, JavaScript, PHP, MySQL, Figma, Linux" />
   </a>
 </p>
 
+<a name="profile-featured-projects"></a>
+🚀 Featured projects
+Project	Description	Tech
+Hunter System	Gamified Pomodoro tracker inspired by Solo Leveling: character levels, equipment, gates, and study reminders	HTML · CSS · JavaScript
+Smart Door Lock	IoT door lock using fingerprint authentication and an ultrasonic sensor, with monitoring and access control through a web dashboard (team project)	ESP32 · C++ · Web
+Singkawang Tourism Website	A tourism website introducing Singkawang and showcasing the city's attractions and places of interest	HTML · CSS · JavaScript
 
-### 🚀 Featured projects
-| Project | Description | Tech |
-|---|---|---|
-| **Hunter System** | Gamified Pomodoro tracker inspired by *Solo Leveling*: levels, gear, gates and study reminders | HTML · CSS · JavaScript |
-| **Smart Door Lock** | IoT door lock with fingerprint sensor and web dashboard (team project) | ESP32 · C++ · Web |
-| **Singkawang Tourism Website** | Tourism website for Kota Singkawang | HTML · CSS · JavaScript |
 
-<p>
-<a href="https://github.com/AziizTrinaldi">
-
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AziizTrinaldi/AziizTrinaldi/pacman/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AziizTrinaldi/AziizTrinaldi/pacman/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AziizTrinaldi/AziizTrinaldi/pacman/pacman-contribution-graph.svg">
-</picture>
- </a>
+👾 Pac-Man contribution graph
+<p align="center">
+  <a href="https://github.com/AziizTrinaldi">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AziizTrinaldi/AziizTrinaldi/output/pacman-contribution-graph-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AziizTrinaldi/AziizTrinaldi/output/pacman-contribution-graph.svg" />
+      <img alt="Pac-Man animation of AziizTrinaldi's GitHub contributions" src="https://raw.githubusercontent.com/AziizTrinaldi/AziizTrinaldi/output/pacman-contribution-graph.svg" width="100%" />
+    </picture>
+  </a>
 </p>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AziizTrinaldi&theme=github-compact&hide_border=true&bg_color=0d1117&color=00f5ff&line=7fff00&point=ff00aa&area=true&area_color=00f5ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
 
 <div align="center">
 
@@ -68,14 +69,12 @@
 
 </div>
 
-### 📊 GitHub stats
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AziizTrinaldi&show_icons=true&hide_border=true&theme=radical&count_private=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AziizTrinaldi&layout=compact&hide_border=true&theme=radical" alt="Top languages">
-</p>
-<p>
-  <img src="https://streak-stats.demolab.com?user=AziizTrinaldi&hide_border=true&theme=radical" alt="GitHub streak">
+📊 GitHub stats
+<p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=AziizTrinaldi&amp;show_icons=true&amp;hide_border=true&amp;theme=radical" alt="GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AziizTrinaldi&amp;layout=compact&amp;hide_border=true&amp;theme=radical" alt="Top languages" />
 </p>
 
----
-<p align="center"><i>"Arise." Always leveling up.</i></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AziizTrinaldi&amp;hide_border=true&amp;theme=radical" alt="GitHub streak" />
+</p>
