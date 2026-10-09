@@ -23,8 +23,12 @@
 
 ### Tech stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,arduino,git,github,vscode&theme=dark" alt="Tech stack">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,python,html,css,js,php,mysql&theme=dark&perline=8" alt="C++, C#, Python, HTML, CSS, JavaScript, PHP, and MySQL" />
+  </a>
 </p>
+
+C++ · C# · Python · HTML · CSS · JavaScript · PHP · SQL / MySQL
 
 ### 🚀 Featured projects
 | Project | Description | Tech |
